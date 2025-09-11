@@ -16,26 +16,16 @@ I’m a mechanical engineer turned CS student building practical software and ML
 - **Tennis Match Outcome Predictor**  
   Logistic regression on first-serve%, double faults, and derived rally stats; full pipeline with train/test split, ROC-AUC, confusion matrix, and Django views that render Matplotlib charts.  
   _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django  
-  _Repo_: [link]
-
-- **Tennis DB (Django)**  
-  Models for `Player`, `Tournament`, `Match` with integrity checks (winner/loser constraints, canonical player ordering), search views, and Jinja templates.  
-  _Tech_: Django, SQLite/Postgres, HTML/CSS  
-  _Repo_: [link]
+  _Repo_: [[link](https://github.com/chalrees876/tennisPrediction)]
 
 - **WGUPS Routing (Algorithms)**  
   Optimized package delivery with custom hash tables and nearest-neighbor; complexity analysis and instrumentation.  
   _Tech_: Python, Data Structures/Algorithms  
-  _Repo_: [link]
+  _Repo_: [[link]](https://github.com/chalrees876/Truck-Delivery-Optimization)
 
-- **Spring Boot Desk Management**  
+- **Spring Boot Inventory Management**  
   CRUD for parts/products with validation (inventory bounds), Thymeleaf forms, unit tests.  
   _Tech_: Java, Spring Boot, JPA/Hibernate, Thymeleaf, MySQL  
-  _Repo_: [link]
-
-- **Disaster-Recovery Robot (CoppeliaSim)**  
-  BubbleRob variant with front proximity sensors + camera, mapping debris in a flood scenario; write-up includes search strategies and uncertainty.  
-  _Tech_: CoppeliaSim, Python/remote API  
   _Repo_: [link]
 
 ---
