@@ -57,8 +57,7 @@ I’m excited to contribute to **data/ML engineering** or **full-stack** teams t
 ## Contact
 
 - 📧 **Chris.mcke876@gmail.com**  
-- 💼 **LinkedIn**: [link]  
-- 🌐 **Portfolio/Site**: [link]
+- 💼 **LinkedIn**: [[link](https://www.linkedin.com/in/christopher-mckenzie-63b7aa19b/)]
 
 ---
 
