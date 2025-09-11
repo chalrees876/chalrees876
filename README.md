@@ -23,10 +23,10 @@ I’m a mechanical engineer turned CS student building practical software and ML
   _Tech_: Python, Data Structures/Algorithms  
   _Repo_: [[link]](https://github.com/chalrees876/Truck-Delivery-Optimization)
 
-- **Spring Boot Inventory Management**  
-  CRUD for parts/products with validation (inventory bounds), Thymeleaf forms, unit tests.  
-  _Tech_: Java, Spring Boot, JPA/Hibernate, Thymeleaf, MySQL  
-  _Repo_: [link]
+- **Wordle Clone (React)**  
+  A browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure, React hooks, and simple state management; supports shareable results (emoji grid).  
+  _Tech_: React, JS/TS, CSS  
+  _Repo_: [link]https://github.com/chalrees876/wordleClone
 
 ---
 
