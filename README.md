@@ -26,7 +26,7 @@ I’m a mechanical engineer turned CS student building practical software and ML
 - **Wordle Clone (React)**  
   A browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure, React hooks, and simple state management; supports shareable results (emoji grid).  
   _Tech_: React, JS/TS, CSS  
-  _Repo_: [link]https://github.com/chalrees876/wordleClone
+  _Repo_: [[link](https://github.com/chalrees876/wordleClone)]
 
 ---
 
