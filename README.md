@@ -7,7 +7,7 @@ I’m a mechanical engineer turned CS student building practical software and ML
 - 🔭 **Now**: Tennis ML capstone predicting match winners from rally/serve features (Python, scikit-learn, Django UI)
 - 🌱 **Learning**: React fundamentals + data viz patterns
 - 📍 NYC • open to data/ML/software roles (NYC/hybrid/remote)
-- 📫 **Email**: Chris.mcke876@gmail.com • **GitHub**: @chalrees876
+- 📫 **Email**: Chris.mcke876@gmail.com • **Portfolio**: 
 
 ---
 
