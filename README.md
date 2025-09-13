@@ -16,8 +16,9 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 
 - **Tennis Match Outcome Predictor**  
   Logistic regression on first-serve%, double faults, and derived rally stats; full pipeline with train/test split, ROC-AUC, confusion matrix, and Django views that render Matplotlib charts.  
-  _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django  
+  _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django
   [_Repo_](https://github.com/chalrees876/tennisPrediction)
+  [Static Visualizations](https://chalrees876.github.io/tennisPrediction/)
 
 - **WGUPS Routing (Algorithms)**  
   Optimized package delivery with custom hash tables and nearest-neighbor; complexity analysis and instrumentation.  
