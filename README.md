@@ -22,12 +22,12 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 - **WGUPS Routing (Algorithms)**  
   Optimized package delivery with custom hash tables and nearest-neighbor; complexity analysis and instrumentation.  
   _Tech_: Python, Data Structures/Algorithms  
-  _Repo_: [[link]](https://github.com/chalrees876/Truck-Delivery-Optimization)
+  [_Repo_](https://github.com/chalrees876/Truck-Delivery-Optimization)
 
 - **Wordle Clone (React)**  
   A browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure, React hooks, and simple state management; supports shareable results (emoji grid).  
   _Tech_: React, JS/TS, CSS  
-  _Repo_: [[link](https://github.com/chalrees876/wordleClone)]
+  [_Repo_](https://github.com/chalrees876/wordleClone)
 
 ---
 
