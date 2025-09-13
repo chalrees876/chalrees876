@@ -7,8 +7,8 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 - 🌱 **Learning**: React fundamentals + data viz patterns
 - 📍 NYC • open to data/ML/software roles (NYC/hybrid/remote)
 
-[Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-blue)](https://chalrees876.github.io/my-portfolio/)
-[Email](https://img.shields.io/badge/Email-Chris.mcke876%40gmail.com-lightgrey)](mailto:Chris.mcke876@gmail.com)
+[Portfolio](https://chalrees876.github.io/my-portfolio/)
+[Email](mailto:Chris.mcke876@gmail.com)
 
 ---
 
