@@ -28,7 +28,7 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 - **Wordle Clone (React)**  
   A browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure, React hooks, and simple state management; supports shareable results (emoji grid).  
   _Tech_: React, JS/TS, CSS  
-  [_Repo_](https://github.com/chalrees876/wordleClone)
+  [Visit Site](https://chalrees876.github.io/wordleClone/)
 
 ---
 
