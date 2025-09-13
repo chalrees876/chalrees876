@@ -1,13 +1,14 @@
-# Christopher McKenzie
+# Hi, I'm Chris 👋
 
-**Software & ML Engineer-in-Training • BSCS @ WGU (’26) • NYC**
-
-I’m a mechanical engineer turned CS student building practical software and ML projects—especially around tennis analytics, optimization, and data-driven apps. I like clean architecture, reproducible experiments, and shipping things people can actually use.
+**Mechanical Engineer → CS graduate → Aspiring Data Scientist / ML Engineer.**  
+I build practical data/ML and full-stack projects—clean code, clear results, shipped.
 
 - 🔭 **Now**: Tennis ML capstone predicting match winners from rally/serve features (Python, scikit-learn, Django UI)
 - 🌱 **Learning**: React fundamentals + data viz patterns
 - 📍 NYC • open to data/ML/software roles (NYC/hybrid/remote)
-- 📫 **Email**: Chris.mcke876@gmail.com • **Portfolio**: 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-blue)](https://chalrees876.github.io/my-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Chris.mcke876%40gmail.com-lightgrey)](mailto:Chris.mcke876@gmail.com)
 
 ---
 
