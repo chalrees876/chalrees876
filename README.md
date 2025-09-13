@@ -8,7 +8,7 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 - 📍 NYC • open to data/ML/software roles (NYC/hybrid/remote)
 
 [Portfolio](https://chalrees876.github.io/my-portfolio/) | 
-[Resume](https://docs.google.com/document/d/1e2o5k_ZQmNWRREdBGg3-LvV6MPTKq7ekSGW7hB5eRg4/edit?tab=t.0) | 
+[Resume](Christopher McKenzie Resume (4).pdf) | 
 [Email](mailto:Chris.mcke876@gmail.com)
 
 ---
