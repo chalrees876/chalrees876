@@ -1,11 +1,19 @@
-# Hi, I'm Chris 👋
+# Hi, I'm Chris
 
-**Mechanical Engineer → CS graduate → Aspiring Data Scientist / ML Engineer.**  
-I build practical data/ML and full-stack projects—clean code, clear results, shipped.
+**Recent computer science graduate currently working as a mechanical engineer looking for a career change into software**  
 
-- 🔭 **Now**: Tennis ML capstone predicting match winners from rally/serve features (Python, scikit-learn, Django UI)
-- 🌱 **Learning**: React fundamentals + data viz patterns
-- 📍 NYC • open to data/ML/software roles (NYC/hybrid/remote)
+## Skills
+
+- **Languages**: Python, Java, C/C++, SQL  
+- **Backend / Frameworks**: Django, Spring Boot  
+- **ML / Data**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
+- **DB / Tools**: SQLite, Postgres, MySQL, Git, Docker (basics), PyCharm/IntelliJ, Jupyter  
+- **Concepts**: Supervised learning, evaluation (ROC-AUC, PR, confusion matrix), data cleaning, REST, MVC, unit testing
+
+
+ **Now**: Tennis ML capstone predicting match winners from rally/serve features (Python, scikit-learn, Django UI)
+- **Learning**: React fundamentals + data viz patterns
+- NYC • open to data/ML/software roles (NYC/hybrid/remote)
 
 [Portfolio](https://chalrees876.github.io/my-portfolio/) | 
 <a href="Christopher McKenzie Resume (4).pdf" class="image fit">Resume</a> | 
@@ -33,23 +41,6 @@ I build practical data/ML and full-stack projects—clean code, clear results, s
 
 ---
 
-## Skills
-
-- **Languages**: Python, Java, C/C++, SQL  
-- **Backend / Frameworks**: Django, Spring Boot  
-- **ML / Data**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **DB / Tools**: SQLite, Postgres, MySQL, Git, Docker (basics), PyCharm/IntelliJ, Jupyter  
-- **Concepts**: Supervised learning, evaluation (ROC-AUC, PR, confusion matrix), data cleaning, REST, MVC, unit testing
-
----
-
-## Recent Work Snippets
-
-- 🧪 Logistic regression pipeline with train/test split, ROC curve, and classification report  
-- 📊 Inline base64-encoded Matplotlib charts in Django templates  
-- 🗃️ Robust Django models with `UniqueConstraint`, reverse relations, and `full_clean()` in `save()`
-
----
 
 ## What I’m Looking For
 
