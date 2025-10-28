@@ -21,34 +21,38 @@
 ## Highlights
 
 - **Tennis Match Outcome Predictor**  
-  Logistic regression on first-serve%, double faults, and derived rally stats; full pipeline with train/test split, ROC-AUC, confusion matrix, and Django views that render Matplotlib charts.  
+  Logistic regression model analyzing first-serve percentage, double faults, and rally statistics. Built full ML pipeline with train/test split, ROC-AUC evaluation, and Django integration for real-time predictions. Currently refining feature engineering and exploring ensemble methods for improved accuracy.  
   _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django  
-  [ Check out the website! ](https://tennisml.duckdns.org)
+  [Check out the website!](https://tennisml.duckdns.org)
+
+  - **Budget Tracker Web Application**  
+  Full-stack Django application implementing zero-based budgeting with real-time financial tracking. Features automated user onboarding with default categories, type-ahead transaction entry, and complex budget calculations with monthly rollovers.  
+  _Tech_: Django, Python, PostgreSQL, HTML/CSS, JavaScript  
+  [View Project](https://github.com/chalrees876/FinanceTracker)
 
 - **WGUPS Routing (Algorithms)**  
-  Optimized package delivery with custom hash tables and nearest-neighbor; complexity analysis and instrumentation.  
+  Optimized package delivery with custom hash tables and nearest-neighbor algorithms; complexity analysis and instrumentation.  
   _Tech_: Python, Data Structures/Algorithms  
-  [_Repo_](https://github.com/chalrees876/Truck-Delivery-Optimization)
+  [Repo](https://github.com/chalrees876/Truck-Delivery-Optimization)
 
 - **Wordle Clone (React)**  
-  A browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure, React hooks, and simple state management; supports shareable results (emoji grid).  
+  Browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure with React hooks and shareable results.  
   _Tech_: React, JS/TS, CSS  
   [Visit Site](https://chalrees876.github.io/wordleClone/)
 
 ---
 
+## What I'm Looking For
 
-## What I’m Looking For
-
-I’m excited to contribute to **data/ML engineering** or **full-stack** teams that value readable code, reproducible experiments, and pragmatic shipping. If your team is working on analytics products, ML-powered features, or data platforms—I’d love to chat.
+I'm excited to contribute to **data/ML engineering** or **full-stack** teams that value readable code, reproducible experiments, and pragmatic shipping. If your team is working on analytics products, ML-powered features, or data platforms—I'd love to chat.
 
 ---
 
 ## Contact
 
-- 📧 **Chris.mcke876@gmail.com**  
-- 💼 **LinkedIn**: [[link](https://www.linkedin.com/in/christopher-mckenzie-63b7aa19b/)]
+- Email: Chris.mcke876@gmail.com  
+- LinkedIn: [link](https://www.linkedin.com/in/christopher-mckenzie-63b7aa19b/)
 
 ---
 
-<sub>Fun: I’m a tennis nerd and a marathon finisher (Philly ’23, sub-4). Always down to hit or debug.</sub>
+Fun: I'm a tennis nerd and a marathon finisher (Philly '23, sub-4). Always down to hit or debug.
