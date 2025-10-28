@@ -25,7 +25,7 @@
   _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django  
   [Check out the website!](https://tennisml.duckdns.org)
 
-  - **Budget Tracker Web Application**  
+- **Budget Tracker Web Application**  
   Full-stack Django application implementing zero-based budgeting with real-time financial tracking. Features automated user onboarding with default categories, type-ahead transaction entry, and complex budget calculations with monthly rollovers.  
   _Tech_: Django, Python, PostgreSQL, HTML/CSS, JavaScript  
   [View Project](https://github.com/chalrees876/FinanceTracker)
