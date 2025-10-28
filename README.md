@@ -28,7 +28,7 @@
 - **Budget Tracker Web Application**  
   Full-stack Django application implementing zero-based budgeting with real-time financial tracking. Features automated user onboarding with default categories, type-ahead transaction entry, and complex budget calculations with monthly rollovers.  
   _Tech_: Django, Python, PostgreSQL, HTML/CSS, JavaScript  
-  [View Project](https://github.com/chalrees876/FinanceTracker)
+  [View Project](https://github.com/chalrees876/finance-tracker)
 
 - **WGUPS Routing (Algorithms)**  
   Optimized package delivery with custom hash tables and nearest-neighbor algorithms; complexity analysis and instrumentation.  
