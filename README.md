@@ -2,8 +2,6 @@
 
 **Software Engineer** building full-stack applications and AI/ML tooling. My background in mechanical engineering gives me a systems-thinking approach to solving complex problems—from data pipelines and backend APIs to deployment and observability.
 
-I'm currently wrapping up my **B.S. in Computer Science** while working full-time.
-
 ---
 
 ### 🧑‍💻 Professional Experience
