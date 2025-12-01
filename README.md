@@ -1,58 +1,50 @@
-# Hi, I'm Chris
+## 👋 Hi, I'm Chris
 
-**Recent computer science graduate currently working as a mechanical engineer looking for a career change into software**  
+**Software Engineer** building full-stack applications and AI/ML tooling. My background in mechanical engineering gives me a systems-thinking approach to solving complex problems—from data pipelines and backend APIs to deployment and observability.
 
-- NYC • open to data/ML/software roles (NYC/hybrid/remote)
-
-## Skills
-
-- **Languages**: Python, Java, C/C++, SQL  
-- **Backend / Frameworks**: Django, Spring Boot  
-- **ML / Data**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **DB / Tools**: SQLite, Postgres, MySQL, Git, Docker (basics), PyCharm/IntelliJ, Jupyter  
-- **Concepts**: Supervised learning, evaluation (ROC-AUC, PR, confusion matrix), data cleaning, REST, MVC, unit testing
-
-[Portfolio](https://chalrees876.github.io/my-portfolio/) | 
-<a href="Christopher McKenzie Resume (4).pdf" class="image fit">Resume</a> | 
-[Email](mailto:Chris.mcke876@gmail.com)
+I'm currently wrapping up my **B.S. in Computer Science** while working full-time.
 
 ---
 
-## Highlights
+### 🧑‍💻 Professional Experience
 
-- **Tennis Match Outcome Predictor**  
-  Logistic regression model analyzing first-serve percentage, double faults, and rally statistics. Built full ML pipeline with train/test split, ROC-AUC evaluation, and Django integration for real-time predictions. Currently refining feature engineering and exploring ensemble methods for improved accuracy.  
-  _Tech_: Python, Pandas, scikit-learn, Matplotlib/Seaborn, Django  
-  [Check out the website!](https://tennisml.duckdns.org)
+**Software Engineer, AI Governance Team** @ SSOE *(Feb 2022 – Present)*  
+*Official title: Mechanical Engineer – Built internal tools & platforms for AI safety*
 
-- **Budget Tracker Web Application**  
-  Full-stack Django application implementing zero-based budgeting with real-time financial tracking. Features automated user onboarding with default categories, type-ahead transaction entry, and complex budget calculations with monthly rollovers.  
-  _Tech_: Django, Python, PostgreSQL, HTML/CSS, JavaScript  
-  [View Project](https://github.com/chalrees876/finance-tracker)
-
-- **WGUPS Routing (Algorithms)**  
-  Optimized package delivery with custom hash tables and nearest-neighbor algorithms; complexity analysis and instrumentation.  
-  _Tech_: Python, Data Structures/Algorithms  
-  [Repo](https://github.com/chalrees876/Truck-Delivery-Optimization)
-
-- **Wordle Clone (React)**  
-  Browser-based word-guessing game with color-coded feedback, on-screen keyboard, and daily/resettable play. Clean component structure with React hooks and shareable results.  
-  _Tech_: React, JS/TS, CSS  
-  [Visit Site](https://chalrees876.github.io/wordleClone/)
+- Built an **AI Governance & Safety Review System** from scratch to enable secure LLM adoption across engineering teams
+- Developed **FastAPI** backend and **React/TypeScript** frontend with JWT/SSO, role-based access, and immutable audit logs
+- Engineered data pipelines with **Pandas/SQLAlchemy** to ingest, sanitize (spaCy NER + regex), and normalize engineering documents into **PostgreSQL**
+- Implemented CI/CD with **GitHub Actions**, containerized services with **Docker**, and scheduled workflows with **Airflow**
+- Created monitoring dashboards for system health and error budgets
 
 ---
 
-## What I'm Looking For
+### 🚀 Projects
 
-I'm excited to contribute to **data/ML engineering** or **full-stack** teams that value readable code, reproducible experiments, and pragmatic shipping. If your team is working on analytics products, ML-powered features, or data platforms—I'd love to chat.
+#### 🎾 [Tennis Match Predictor](https://github.com/yourusername/tennis-predictor)
+*Python · Django · scikit-learn · AWS · PostgreSQL*
+- Production prediction service for ATP matches with ~70% accuracy
+- Deployed Django REST API on **AWS EC2/RDS** with query caching and optimized latency
+- Automated ETL and retraining pipelines using cron and evaluation gates
+
+#### 🏗️ [Con-Structor – Hackathon Project](https://github.com/yourusername/con-structor)
+*React Three Fiber · TypeScript · Gemini API · Google Cloud Run*
+- AI-assisted 3D modeling debugger built in 48 hours
+- Real-time geometry streaming with backpressure control
+- **Top 5 finalist** out of 40+ teams
+
+*(More projects pinned below ⬇️)*
 
 ---
 
-## Contact
+### 🛠️ Tech Stack
 
-- Email: Chris.mcke876@gmail.com  
-- LinkedIn: [link](https://www.linkedin.com/in/christopher-mckenzie-63b7aa19b/)
-
----
-
-Fun: I'm a tennis nerd and a marathon finisher (Philly '23, sub-4). Always down to hit or debug.
+```python
+{
+  "languages": ["Python", "TypeScript/JavaScript", "SQL", "Java", "C++"],
+  "backend": ["FastAPI", "Django", "REST APIs", "SQLAlchemy", "Pydantic"],
+  "frontend": ["React", "HTML/CSS"],
+  "data": ["Pandas", "scikit-learn", "Data Modeling", "ETL/ELT"],
+  "infra": ["Docker", "AWS (EC2, RDS, S3)", "PostgreSQL", "GitHub Actions", "Airflow", "Linux", "Nginx"],
+  "practices": ["CI/CD", "Testing (pytest)", "System Design", "API Design"]
+}
