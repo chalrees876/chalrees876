@@ -19,13 +19,13 @@
 
 ### 🚀 Projects
 
-#### 🎾 [Tennis Match Predictor](https://github.com/yourusername/tennis-predictor)
+#### 🎾 [Tennis Match Predictor](https://github.com/chalrees876/tennis-predictor) [Live Site!](https://tennisbetsmart.com)
 *Python · Django · scikit-learn · AWS · PostgreSQL*
 - Production prediction service for ATP matches with ~70% accuracy
 - Deployed Django REST API on **AWS EC2/RDS** with query caching and optimized latency
 - Automated ETL and retraining pipelines using cron and evaluation gates
 
-#### 🏗️ [Con-Structor – Hackathon Project](https://github.com/yourusername/con-structor)
+#### 🏗️ Con-Structor
 *React Three Fiber · TypeScript · Gemini API · Google Cloud Run*
 - AI-assisted 3D modeling debugger built in 48 hours
 - Real-time geometry streaming with backpressure control
