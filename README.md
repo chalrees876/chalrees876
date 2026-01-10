@@ -19,7 +19,7 @@
 
 ### 🚀 Projects
 
-#### 🎾 [Tennis Match Predictor](https://github.com/chalrees876/tennis-predictor)
+#### 🎾 [Tennis Match Predictor](https://github.com/chalrees876/tennisPrediction)
 *Python · Django · scikit-learn · AWS · PostgreSQL*
 - Production prediction service for ATP matches with ~70% accuracy
 - Deployed Django REST API on **AWS EC2/RDS** with query caching and optimized latency
